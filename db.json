@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Give Benny a good old fashioned ravaging",
-      "day": "1/7/22",
-      "reminder": false
+      "text": "Give Benny a good ole fashioned ravaging",
+      "day": "all day every day",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
